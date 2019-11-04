@@ -1,0 +1,4 @@
+#Thu Oct 31 10:35:32 BRT 2019
+base.0=/home/giovanni/Documents/navigation/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
